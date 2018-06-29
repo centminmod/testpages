@@ -1,6 +1,7 @@
 Collection of test pages used for benchmark testing
 
-* /centminmod/nginx-default - Centmin Mod 123.09beta01 LEMP stack default nginx instal index html page
+* /centminmod/nginx-vhost - Centmin Mod 123.09beta01 LEMP stack default nginx site vhost's index.html placeholder page
+* /centminmod/nginx-default - Centmin Mod 123.09beta01 LEMP stack default nginx install index html page
 * /lipsum/lipsum1/lipsum.txt - lorem ipsum auto generated text file from [lipsum.com 5 paragraphs](https://www.lipsum.com/)
 * /lipsum/lipsum2/lipsum.html - lorem ipsum auto generated index.html file from [generator.lorem-ipsum.info 5 paragraph](http://generator.lorem-ipsum.info/)
 * /lipsum/lipsum3/lipsum.html - lorem ipsum auto generated index.html file from [generator.lorem-ipsum.info 20 paragraph](http://generator.lorem-ipsum.info/)
